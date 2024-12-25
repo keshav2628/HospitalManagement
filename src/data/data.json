@@ -1,0 +1,184 @@
+{
+  "Header": {
+    "title": "Smart Hospital Management System",
+    "paragraph": "The Hospital Management System (HMS) is a comprehensive web application designed to streamline hospital administrative and clinical operations, enhancing patient experience and operational efficiency."
+  },
+  "About": {
+    "paragraph": "The Smart Hospital Management System is a cutting-edge digital platform designed to revolutionize the way healthcare services are managed and delivered. This system allows patients to effortlessly book appointments, access comprehensive profiles of doctors, and check real-time availability of healthcare professionals.",
+    "Why": [
+      "Patient-centric care",
+      "Leading Specialists",
+      "World-class standards",
+      "Pharmacy"
+    ],
+    "Why2": [
+      "Latest technology",
+      "Homely feel",
+      "Diagnostics",
+      "Quality healthcare"
+    ]
+  },
+  "Gallery": [
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/01-large.jpg",
+      "smallImage": "img/portfolio/01-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/02-large.jpg",
+      "smallImage": "img/portfolio/02-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/03-large.jpg",
+      "smallImage": "img/portfolio/03-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/04-large.jpg",
+      "smallImage": "img/portfolio/04-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/05-large.jpg",
+      "smallImage": "img/portfolio/05-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/06-large.jpg",
+      "smallImage": "img/portfolio/06-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/07-large.jpg",
+      "smallImage": "img/portfolio/07-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/08-large.jpg",
+      "smallImage": "img/portfolio/08-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/09-large.jpg",
+      "smallImage": "img/portfolio/09-small.jpg"
+    }
+  ],
+  "Services": [
+    {
+      "icon": "fa fa-wordpress",
+      "name": "Web app",
+      "text": ""
+    },
+    {
+      "icon": "fa fa-cart-arrow-down",
+      "name": "Medicine store",
+      "text": ""
+    },
+    {
+      "icon": "fa fa-cloud-download",
+      "name": "Downloads",
+      "text": ""
+    },
+    {
+      "icon": "fa fa-language",
+      "name": "Easy access",
+      "text": ""
+    },
+    {
+      "icon": "fa fa-plane",
+      "name": "Free-Delivery",
+      "text": ""
+    },
+    {
+      "icon": "fa fa-pie-chart",
+      "name": "Medical History",
+      "text": ""
+    }
+  ],
+  "Testimonials": [
+    {
+      "img": "img/testimonials/01.jpg",
+      "text": "\"I am glad to review this hospital as this is one of the finest hospitals I have ever seen. The crew working in this hospital are very friendly.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/02.jpg",
+      "text": "\"We are very happy with the service given and the care provided by the doctors and staff.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/03.jpg",
+      "text": "\"The doctors and staff provided excellent treatment and care. I highly recommend this hospital for anyone seeking quality healthcare.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/04.jpg",
+      "text": "\"Friendly and professional staff. The hospital was clean and had modern facilities\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/05.jpg",
+      "text": "\"Speedy and efficient process. High-quality medical care at an affordable price\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/06.jpg",
+      "text": "\"Housekeeping service is excellent\"",
+      "name": "Johnathan Doe"
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/team/01.jpg",
+      "name": "Dr. Jayanth Reddy",
+      "job": "Cardiologist"
+    },
+    {
+      "img": "img/team/02.jpg",
+      "name": "Dr. Nikku Harshini",
+      "job": "Neurologist"
+    },
+    {
+      "img": "img/team/03.jpg",
+      "name": "Dr. Puneeth Joopalli",
+      "job": "Surgeon"
+    },
+    {
+      "img": "img/team/04.jpg",
+      "name": "Dr. Swetha Reddy",
+      "job": "Pschiatrist"
+    }
+  ],
+  "Contact": {
+    "address": "4321 California St, San Francisco, CA 12345 ",
+    "phone": "+1 123 456 1234",
+    "email": "info@company.com",
+    "facebook": "fb.com",
+    "twitter": "twitter.com",
+    "youtube": "youtube.com"
+  },
+  "Features": [
+    {
+      "icon": "fa fa-comments-o",
+      "title": "Customer Support",
+      "text": "Fast support to customer problems"
+    },
+    {
+      "icon": "fa fa-bullhorn",
+      "title": "Appointments",
+      "text": "Book your appointments easily at a click"
+    },
+    {
+      "icon": "fa fa-group",
+      "title": "Expert doctors",
+      "text": "Consult our expert doctor team"
+    },
+    {
+      "icon": "fa fa-magic",
+      "title": "Medicines",
+      "text": "Choose from our wide range of medicines"
+    }
+  ]
+}
